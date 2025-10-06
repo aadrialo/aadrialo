@@ -57,8 +57,7 @@ Estoy en proceso de construir proyectos que reflejen lo que voy aprendiendo. Alg
 Si te interesa colaborar, compartir ideas o simplemente charlar sobre este mundillo:
 
 - 📧 Email: **shaolin1510@gmail.com**  
-- 💼 LinkedIn: https://es.linkedin.com/  
-- 🧠 Siempre abierto a aprender de otros  
+- 💼 LinkedIn: https://es.linkedin.com/   
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4YTltMXpnYzU2M3I0YXB4MTRucnpveTJ5YWxpdHh3bWpwOGhvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Byour3OgR0nWnRR6Tc/giphy.gif" alt="Banner" width="100%" height="10px"  />
