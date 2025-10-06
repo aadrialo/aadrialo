@@ -24,7 +24,7 @@ Desde que empecé en el mundo de la informática, me ha llamado la atención có
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4YTltMXpnYzU2M3I0YXB4MTRucnpveTJ5YWxpdHh3bWpwOGhvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Byour3OgR0nWnRR6Tc/giphy.gif" alt="Banner" width="100%" height="10px"  />
 </p>
 
-## 📚 En constante aprendizaje
+## 📚 En constante aprendizaje 📚
 
 Estoy en proceso de construir proyectos que reflejen lo que voy aprendiendo. Algunos serán simples, otros más técnicos, pero todos con el objetivo de crecer como profesional en ciberseguridad.
 
