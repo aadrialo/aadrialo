@@ -46,7 +46,8 @@ Estoy en proceso de construir proyectos que reflejen lo que voy aprendiendo. Alg
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aadrialo&show_icons=true&theme=radical&locale=es)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrialo&layout=compact&theme=radical&locale=es)  
-![Racha en GitHub](https://streak-stats.demolab.com?user=aadrialo&theme=radical&hide_border=true&locale=es)
+![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=aadrialo&theme=radical&hide_border=true&locale=es)
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4YTltMXpnYzU2M3I0YXB4MTRucnpveTJ5YWxpdHh3bWpwOGhvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Byour3OgR0nWnRR6Tc/giphy.gif" alt="Banner" width="100%" height="10px"  />
