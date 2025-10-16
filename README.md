@@ -46,7 +46,6 @@ Estoy en proceso de construir proyectos que reflejen lo que voy aprendiendo. Alg
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aadrialo&show_icons=true&theme=radical&locale=es)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrialo&layout=compact&theme=radical&locale=es)  
-![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=aadrialo&theme=radical&hide_border=true&locale=es)
 
 
 <p align="center">
